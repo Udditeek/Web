@@ -100,13 +100,12 @@ const siteConfig = {
     },
   ],
 
-  contact: [
-    {
+  contact: {
     email: 'kapoorudditee@gmail.com',
     linkedin: 'https://www.linkedin.com/in/udditee-kapoor/',
     github: 'https://github.com/udditeekapoor',
   
-  },
-];
+    },
+};
 
 export default siteConfig;
