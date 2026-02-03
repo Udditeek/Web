@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Udditee Kapoor',
     title: 'Data Science & Economics Student | Aspiring Data Analyst',
-    image: getAsset('images/profile.png'), // Replace with your profile image
+    image: getAsset('images/me.png'), // Replace with your profile image
     description:
       'I am a first-year BSc Data Science and Economics student at Christ University, Bangalore, with a passion for understanding how data, business, and human behavior intersect.\n' +
       '\n' +
